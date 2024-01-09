@@ -1,6 +1,7 @@
 ---
-title: hello_world
-date: YYYY-MM-DD
+layout: post
+title: "hello_world"
+date: 2024-01-09
 categories: [misc]
 tags: [misc]     # TAG names should always be lowercase
 ---
