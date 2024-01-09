@@ -1,6 +1,6 @@
 ---
 title: hello_world
-date: 2024-01-DD09 HH:MM:SS +/-TTTT
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [misc]
 tags: [misc]     # TAG names should always be lowercase
 ---
